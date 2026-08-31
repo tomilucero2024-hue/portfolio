@@ -14,13 +14,3 @@ assets/
 ├─ img/          fotos y piezas de los trabajos
 └─ cv/           CV en PDF
 ```
-
-## Ver en local
-
-Abrir `index.html` en el navegador, o levantar un servidor estático:
-
-```bash
-python -m http.server 8000
-```
-
-Y entrar a http://localhost:8000
